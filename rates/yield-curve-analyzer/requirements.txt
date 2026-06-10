@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+fredapi
+jupyter
+ipykernel
