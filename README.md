@@ -26,13 +26,7 @@ The work here is grounded in the belief that disciplined quantitative methods an
 
 | Area | Focus |
 |------|-------|
-| **Rates & Fixed Income** | Yield curves, monetary policy, duration, credit spreads |
-| **Foreign Exchange** | Rate differentials, carry, purchasing power, capital flows |
-| **Commodities** | Energy, metals, agricultural — supply/demand and macro drivers |
-| **Equities** | Macro regime analysis, sector rotation, earnings and valuation |
-| **Macro Regimes** | Growth/inflation cycle classification, cross-asset implications |
-| **Geopolitics & Policy** | Sanctions, trade policy, central bank dynamics, political risk |
-
+| **Rates** | Yield curves |
 ---
 
 ### Stack
